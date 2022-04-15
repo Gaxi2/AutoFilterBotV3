@@ -44,7 +44,7 @@ START_MSG = environ.get('START_MSG', default_start_msg)
 FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "")
 OMDB_API_KEY = environ.get("OMDB_API_KEY", "http://www.omdbapi.com/?i=tt3896198&apikey=4f08a979")
 if FILE_CAPTION.strip() == "":
-    CUSTOM_FILE_CAPTION=None
+    CUSTOM_FILE_CAPTION=<code>{file_name}</code>\nSize{file_size}\n{file_caption}\n<b>Uploaded by [🔰FindHub🔰](https://t.me/findhub04)</b>
 else:
     CUSTOM_FILE_CAPTION=FILE_CAPTION
 if OMDB_API_KEY.strip() == "":
