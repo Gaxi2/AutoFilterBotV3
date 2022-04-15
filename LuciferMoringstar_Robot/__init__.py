@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Finder v3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Finder04](
+https://t.me/finder004)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](buttonalert:This Is Not For You Dude😠)
 """
